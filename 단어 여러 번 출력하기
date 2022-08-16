@@ -1,0 +1,2 @@
+dan,ban = input().split()
+print(dan*int(ban))
