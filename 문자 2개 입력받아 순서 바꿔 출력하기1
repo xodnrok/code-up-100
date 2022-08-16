@@ -1,0 +1,4 @@
+bunsu1 = input()
+bunsu2 = input() 
+print(bunsu2)
+print(bunsu1)
