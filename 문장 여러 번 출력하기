@@ -1,0 +1,3 @@
+ban = input()
+dan = input()
+print(int(ban)*dan)
