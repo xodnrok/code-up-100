@@ -1,0 +1,4 @@
+bunsu1 = input()
+print(float(bunsu1))
+print(float(bunsu1))
+print(float(bunsu1))
