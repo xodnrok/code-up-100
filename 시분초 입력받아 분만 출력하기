@@ -1,2 +1,2 @@
-a = input()
-print(a[3:5])
+a = input().split(':')
+print(a[1])
