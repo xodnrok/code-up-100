@@ -1,0 +1,2 @@
+bunsu = input()
+print(bunsu)
